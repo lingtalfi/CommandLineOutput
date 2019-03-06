@@ -1,11 +1,11 @@
 <?php
 
 
-namespace CommandLineOutput;
+namespace Ling\CommandLineOutput;
 
 
-use CommandLineOutput\Adaptor\AdaptorInterface;
-use CommandLineOutput\Adaptor\BashtmlAdaptor;
+use Ling\CommandLineOutput\Adaptor\AdaptorInterface;
+use Ling\CommandLineOutput\Adaptor\BashtmlAdaptor;
 
 class CommandLineOutput implements CommandLineOutputInterface
 {

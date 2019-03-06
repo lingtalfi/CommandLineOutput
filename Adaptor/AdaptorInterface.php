@@ -1,6 +1,6 @@
 <?php
 
-namespace CommandLineOutput\Adaptor;
+namespace Ling\CommandLineOutput\Adaptor;
 
 
 interface AdaptorInterface

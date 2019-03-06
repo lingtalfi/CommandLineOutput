@@ -1,7 +1,7 @@
 <?php
 
 
-namespace CommandLineOutput;
+namespace Ling\CommandLineOutput;
 
 
 interface CommandLineOutputInterface
