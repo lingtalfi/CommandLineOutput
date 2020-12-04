@@ -59,7 +59,11 @@ See this class for the whole list of code: `class/CommandLineOutput/Adaptor/Bash
 
 History Log
 ------------------
-    
+
+- 1.0.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.0 -- 2018-03-28
 
     - initial commit
